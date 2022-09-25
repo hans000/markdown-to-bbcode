@@ -1,0 +1,101 @@
+---
+h1: { color: "#fff", size: 6, align: "center", bold: true }
+h3: { color: "#fff", size: 5, bold: true }
+h4: { color: "#fff", size: 4, align: "center", bold: true, inline: true }
+
+---
+#region table
+
+#region tr=#68544b td
+#region table
+#region tr td
+# 《龟虽寿》赏析
+#### ——内容源于网络——
+#endregion
+#endregion
+#endregion
+
+#region tr=#9f887c td
+#region table tr=#9f887c td
+### 【原文】
+#endregion
+#endregion
+
+#region tr=#d7bdae td
+#region table tr=#edded3 td size=3
+龟虽寿①
+神龟虽寿②，犹有竞时③；
+腾蛇乘雾④，终为土灰。
+老骥伏枥⑤，志在千里；
+烈士暮年⑥，壮心不已。
+盈缩⑦之期，不但在天；
+养怡之福⑧，可得永年⑨。
+#endregion
+#endregion
+
+
+#region tr=#9f887c td
+#region table tr=#9f887c td
+### 【作者介绍】
+#endregion
+#endregion
+
+#region tr=#d7bdae td
+#region table tr=#edded3 td size=3
+曹操(155-220)，字孟德，东汉沛国谯郡（今安徽毫县）人，是我国历史上著名的政治家和军事家，也是建安时期承前启后的文学家。诗作今存二十一篇，《龟虽寿》是其中的名篇之一。
+#endregion
+#endregion
+
+
+#region tr=#9f887c td
+#region table tr=#9f887c td
+### 【注释】
+#endregion
+#endregion
+
+#region tr=#d7bdae td
+#region table tr=#edded3 td size=3
+①曹操乐府歌辞《步出夏门行》共四章，前边有序曲。《龟虽寿》是第四章。
+②神龟：传说龟能活三千岁，因此有“神龟”之称。
+③竟：终了，死。
+④腾蛇：传说中能腾云驾雾的一种“神蛇”。
+⑤骥(ji)，日行千里的好马；枥(li)：马棚。
+⑥烈士：指有抱负有才干的人。
+⑦盈缩：指寿命的长短。
+⑧养怡：调养性情，使之愉快。
+⑨永年：指长寿。
+曹操(155-220)，字孟德，东汉沛国谯郡（今安徽毫县）人，是我国历史上著名的政治家和军事家，也是建安时期承前启后的文学家。诗作今存二十一篇，《龟虽寿》是其中的名篇之一。
+#endregion
+#endregion
+
+
+#region tr=#9f887c td
+#region table tr=#9f887c td
+### 【译文】
+#endregion
+#endregion
+
+#region tr=#d7bdae td
+#region table tr=#edded3 td size=3
+神龟虽说能活上千年，终归还是有死亡的一天。腾蛇能乘雾升空，终究还是化成尘土，不能避免。老千里马伏在马棚间，向往的仍然是驰骋千里之远。英雄志士即使到了晚年，壮志豪情也不衰减。人的寿命长短并非全然取决于上天；只要注意身心保养，精神乐观，就可益寿延年。高兴极了，就用诗歌来表达自己的弘图志愿。
+#endregion
+#endregion
+
+
+#region tr=#9f887c td
+#region table tr=#9f887c td
+### 【诗文赏析】
+#endregion
+#endregion
+
+#region tr=#d7bdae td
+#region table tr=#edded3 td size=3
+建安十一年（公元二O七年），曹操击败袁绍，不久又亲率大军远征乌桓，取得胜利。回师途中，他踌躇满志，欣然命笔，写下了《龟虽寿》这著名诗篇。作品表现了作者老当益壮，奋发进取，不信天命的精神。
+前四句，说神灵之物的生命也是有限的。第一句与第二句、第三句与第四句之间都是转折关系。“犹”和“终”强调了“有竟时”和“为土灰”的不可更变。这两句说，传说的神龟虽然能活上千年，终究还是死去；腾蛇能乘雾升开，神异非凡，但也免不了死掉变成尘土，表现了曹操朴素的唯物论思想。中间四句，说豪杰志士即使到了晚年，也雄心不减，力争奋发有为。作者以“老骥‘自喻，比喻恰切形象，意气矫健沉雄，蕴蓄昂扬之气，与”烈士“相联，豪杰宝马，奔腾呼啸，一派英雄气概，跃然纸面。此八句诗之字里行间洋溢着人生苦短、只争朝夕的乐观主义精神，撩人情怀。令人不由想起了辛弃疾的词——“醉里挑灯看剑，梦回吹角连营，八百里分麾下炙，五十弦翻塞外声，沙场秋点兵。马作的卢飞快，弓如霹雳弦惊”读来酣畅淋漓，有同工异曲之妙。
+文末四句所抒发的蔑视天命、与天争寿的个性化精神委实难能可贵，可叹可赞。
+作品在艺术表现方面也很有特色。前边两句，连用三个比喻，而用法不同。“神龙”、“腾蛇”是反义比喻，“老骥”是正面比喻，相反相成，相得益彰，耐人寻味。
+“往事越千年，魏武挥鞭”，一千七百多年后，魏武的“老骥伏枥，志在千里”仍然回荡在人们耳际。
+#endregion
+#endregion
+
+#endregion

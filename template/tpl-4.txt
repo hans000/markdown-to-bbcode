@@ -1,0 +1,100 @@
+#region center size=6 color=#ab300b
+**古诗词6首**
+#region center size=4 color=#c83129
+让诗歌点亮生活
+#endregion
+#region left size=3
+人生短暂，及时行乐。想见的人，抓紧去见；想做的事，抓紧去做。日子一天天流逝，别让自己深陷负面情绪的泥潭，只要心乐观开朗，逍遥快活胜似神仙。
+#endregion
+#endregion
+***
+
+#region size=6 color=#aa300b
+**|**
+#region inline size=5
+《江上值水如海势聊短述》唐·杜甫
+#endregion
+#endregion
+#region size=3
+为人性僻耽佳句，语不惊人死不休。
+老去诗篇浑漫与，春来花鸟莫深愁。
+新添水槛供垂钓，故着浮槎替入舟。
+焉得思如陶谢手，令渠述作与同游。
+#endregion
+
+***
+
+#region size=6 color=#aa300b
+**|**
+#region inline size=5
+《自遣》唐·罗隐
+#endregion
+#endregion
+#region size=3
+得即高歌失即休，多愁多恨亦悠悠。
+今朝有酒今朝醉，明日愁来明日愁。
+#endregion
+
+***
+
+#region size=6 color=#aa300b
+**|**
+#region inline size=5
+《赋萧瑀》唐·李世民
+#endregion
+#endregion
+#region size=3
+疾风知劲草，板荡识诚臣。
+勇夫安识义，智者必怀仁。
+#endregion
+
+***
+
+#region size=6 color=#aa300b
+**|**
+#region inline size=5
+《《蝶恋花》南唐·李煜
+#endregion
+#endregion
+#region size=3
+遥夜亭皋闲信步，
+乍过清明，渐觉伤春暮。
+数点雨声风约住，朦胧澹月云来去。
+桃李依依春暗度，
+谁在秋千，笑里轻轻语。
+一片芳心千万绪，人间没个安排处。
+#endregion
+
+***
+
+#region size=6 color=#aa300b
+**|**
+#region inline size=5
+《鹧鸪天》宋·苏轼
+#endregion
+#endregion
+#region size=3
+林断山明竹隐墙，乱蝉衰草小池塘。
+翻空白鸟时时见，照水红蕖细细香。
+村舍外，古城旁，杖藜徐步转斜阳。
+殷勤昨夜三更雨，又得浮生一日凉。
+#endregion
+
+***
+
+#region size=6 color=#aa300b
+**|**
+#region inline size=5
+《杂诗》东晋·陶渊明
+#endregion
+#endregion
+#region size=3
+人生无根蒂，飘如陌上尘。
+分散逐风转，此已非常身。
+落地为兄弟，何必骨肉亲！
+得欢当作乐，斗酒聚比邻。
+盛年不重来，一日难再晨。
+及时当勉励，岁月不待人。
+#endregion
+
+***

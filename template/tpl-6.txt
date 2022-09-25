@@ -1,0 +1,131 @@
+---
+postbg: 2.jpg
+---
+
+#region table
+#region tr=#b2dfdb td color=#fff b size=5
+诗词名句
+#endregion
+#region tr=#fff td size=4 center
+内容来自网络
+旨在弘扬中华文化
+仅用于学习交流
+
+***
+#region float=right size=3 color=#39978c
+——签名：by hans0000
+——时间：2022.09.16
+#endregion
+#endregion
+#endregion
+
+#region table
+#region tr=#b2dfdb td color=#fff b size=5
+游子吟的诗意
+#endregion
+
+#region tr=#fff td
+
+#region center table=90%
+
+#region tr=#fff td
+
+#region float=right
+慈母手中线，游子身上衣。
+临行密密缝，意恐迟迟归。
+谁言寸草心，报得三春晖。
+#endregion
+
+#region inline float=left
+|作者|孟郊|
+|--|--|
+|名称|游子吟|
+#endregion
+
+#endregion
+
+#region tr=#fff td size=2
+这是一首母爱的颂歌。诗中亲切真淳地吟颂人类最伟大的情感——母爱。尤其是诗的最后两句，以通俗形象的比喻，寄托赤子炽烈的情怀，对于春日般的母爱，被广为传颂。全诗无华丽的词藻，亦无巧琢雕饰，于清新流畅，淳朴素淡的语言中，饱含着浓郁醇美的诗味，情真意切，千百年来拨动多少读者的心弦，引起万千游子的共鸣。
+#endregion
+
+#endregion
+
+#region center table=90%
+
+#region tr=#fff td
+
+
+#region float=right
+|作者|孟郊|
+|--|--|
+|名称|游子吟|
+#endregion
+
+#region float=left inline
+慈母手中线，游子身上衣。
+临行密密缝，意恐迟迟归。
+谁言寸草心，报得三春晖。
+#endregion
+
+#endregion
+
+#region tr=#fff td size=2
+这是一首母爱的颂歌。诗中亲切真淳地吟颂人类最伟大的情感——母爱。尤其是诗的最后两句，以通俗形象的比喻，寄托赤子炽烈的情怀，对于春日般的母爱，被广为传颂。全诗无华丽的词藻，亦无巧琢雕饰，于清新流畅，淳朴素淡的语言中，饱含着浓郁醇美的诗味，情真意切，千百年来拨动多少读者的心弦，引起万千游子的共鸣。
+#endregion
+
+#endregion
+
+
+#region center table=90%
+
+#region tr=#fff td
+
+#region float=right
+慈母手中线，游子身上衣。
+临行密密缝，意恐迟迟归。
+谁言寸草心，报得三春晖。
+#endregion
+
+#region inline float=left
+|作者|孟郊|
+|--|--|
+|名称|游子吟|
+#endregion
+
+#endregion
+
+#region tr=#fff td size=2
+这是一首母爱的颂歌。诗中亲切真淳地吟颂人类最伟大的情感——母爱。尤其是诗的最后两句，以通俗形象的比喻，寄托赤子炽烈的情怀，对于春日般的母爱，被广为传颂。全诗无华丽的词藻，亦无巧琢雕饰，于清新流畅，淳朴素淡的语言中，饱含着浓郁醇美的诗味，情真意切，千百年来拨动多少读者的心弦，引起万千游子的共鸣。
+#endregion
+
+#endregion
+
+#region center table=90%
+
+#region tr=#fff td
+
+
+#region float=right
+|作者|孟郊|
+|--|--|
+|名称|游子吟|
+#endregion
+
+#region float=left inline
+慈母手中线，游子身上衣。
+临行密密缝，意恐迟迟归。
+谁言寸草心，报得三春晖。
+#endregion
+
+#endregion
+
+#region tr=#fff td size=2
+这是一首母爱的颂歌。诗中亲切真淳地吟颂人类最伟大的情感——母爱。尤其是诗的最后两句，以通俗形象的比喻，寄托赤子炽烈的情怀，对于春日般的母爱，被广为传颂。全诗无华丽的词藻，亦无巧琢雕饰，于清新流畅，淳朴素淡的语言中，饱含着浓郁醇美的诗味，情真意切，千百年来拨动多少读者的心弦，引起万千游子的共鸣。
+#endregion
+
+#endregion
+
+
+#endregion
+
+#endregion

@@ -1,0 +1,91 @@
+#region table tr=#9a3d27 td bold size=6 color=#fff
+中秋节经典古诗词汇编6篇
+#endregion
+
+===《八月十五夜月》
+
+#region table
+#region tr=#aa5844 td size=5 color=#fff
+《八月十五夜月》【唐】杜甫
+#endregion
+
+#region tr=#fff td size=3
+满月飞明镜，归心折大刀。
+转蓬行地远，攀桂仰天高。
+水路疑霜雪，林栖见羽毛。
+此时瞻白兔，直欲数秋毫。
+#endregion
+#endregion
+
+===《十五夜望月》
+
+#region table
+#region tr=#aa5844 td size=5 color=#fff
+《十五夜望月》【唐】王建
+#endregion
+
+#region tr=#fff td size=3
+中庭地白树栖鸦，冷露无声湿桂花。
+今夜月明人尽望，不知秋思落谁家。
+#endregion
+#endregion
+
+===《秋宵月下有怀》
+
+#region table
+#region tr=#aa5844 td size=5 color=#fff
+《秋宵月下有怀》【唐】孟浩然
+#endregion
+
+#region tr=#fff td size=3
+秋空明月悬，光彩露沾湿。
+惊鹊栖未定，飞萤卷帘入。
+庭槐寒影疏，邻杵夜声急。
+佳期旷何许!望望空伫立。
+#endregion
+#endregion
+
+===《望月怀远》
+
+#region table
+#region tr=#aa5844 td size=5 color=#fff
+《望月怀远》【唐】张九龄
+#endregion
+
+#region tr=#fff td size=3
+海上生明月，天涯共此时。
+情人怨遥夜，竟夕起相思。
+灭烛怜光满，披衣觉露滋。
+不堪盈手赠，还寝梦佳期。
+#endregion
+#endregion
+
+===《月夜忆舍弟》
+
+#region table
+#region tr=#aa5844 td size=5 color=#fff
+《月夜忆舍弟》【唐】杜甫
+#endregion
+
+#region tr=#fff td size=3
+戍鼓断人行，边秋一雁声。
+露从今夜白，月是故乡明。
+有弟皆分散，无家问死生。
+寄书长不达，况乃未休兵。
+#endregion
+#endregion
+
+===《八月十五夜玩月》
+
+#region table
+#region tr=#aa5844 td size=5 color=#fff
+《八月十五夜玩月》【唐】刘禹锡
+#endregion
+
+#region tr=#fff td size=3
+天将今夜月，一遍洗寰瀛。
+暑退九霄净，秋澄万景清。
+星辰让光彩，风露发晶英。
+能变人间世，攸然是玉京。
+#endregion
+#endregion

@@ -1,0 +1,75 @@
+#region center table=90%
+#region tablerow=#1885c4 tablecell center
+
+#region table tablerow=#fff tablecell center bold size=6 color=#4169e1
+—— 大标题 ——
+#endregion
+
+#endregion
+#region tablerow=#fff tablecell
+
+#region table tablerow=#fbf2db tablecell size=4 color=#4169e1
+摘要内容
+#endregion
+
+#endregion
+#region tablerow=#fff tablecell
+
+#region table tablerow=#fbf2db tablecell center size=4 color=#4169e1
+
+#region table=90% tablerow=#53ac8e tablecell center size=5 color=#4169e1
+#region table tablerow=#fff tablecell center bold size=5 color=#4169e1
+章节标题一
+#endregion
+#endregion
+
+#region
+内容
+#endregion
+
+
+#region table=90% tablerow=#53ac8e tablecell center size=5 color=#4169e1
+#region table tablerow=#fff tablecell center bold size=5 color=#4169e1
+章节标题二
+#endregion
+#endregion
+
+#region
+内容
+#endregion
+
+
+#region table=90% tablerow=#53ac8e tablecell center size=5 color=#4169e1
+#region table tablerow=#fff tablecell center bold size=5 color=#4169e1
+章节标题三
+#endregion
+#endregion
+
+#region
+内容
+#endregion
+
+
+#region table=90% tablerow=#53ac8e tablecell center size=5 color=#4169e1
+#region table tablerow=#fff tablecell center bold size=5 color=#4169e1
+章节标题四
+#endregion
+#endregion
+
+#region
+内容
+#endregion
+
+
+#region right size=4
+***
+
+——签名：模板由bbscode插件生成
+——作者：hans0000
+——时间：2022年9月15日
+#endregion
+
+#endregion
+
+#endregion
+#endregion

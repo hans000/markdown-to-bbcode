@@ -1,0 +1,45 @@
+{
+    "$schema": "./schema.json",
+    "list": [
+        {
+            "name": "模板-1",
+            "description": "模板1",
+            "templateId": "./tpl-1.txt"
+        },
+        {
+            "name": "模板-2",
+            "description": "模板2",
+            "templateId": "./tpl-2.txt"
+        },
+        {
+            "name": "模板-3",
+            "description": "模板3",
+            "templateId": "./tpl-3.txt"
+        },
+        {
+            "name": "模板-4",
+            "description": "模板4",
+            "templateId": "./tpl-4.txt"
+        },
+        {
+            "name": "模板-5",
+            "description": "模板5",
+            "templateId": "./tpl-5.txt"
+        },
+        {
+            "name": "模板-6",
+            "description": "模板6",
+            "templateId": "./tpl-6.txt"
+        },
+        {
+            "name": "模板-7",
+            "description": "模板7",
+            "templateId": "./tpl-7.txt"
+        },
+        {
+            "name": "模板-8",
+            "description": "模板8",
+            "templateId": "./tpl-8.txt"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+#e_body .area {
+    position: relative;
+    display: flex;
+    min-width: 0;
+    padding: 0;
+    textarea {
+        display: block;
+        z-index: 1;
+        height: 400px;
+        flex: 1 1 50%;
+    }
+    iframe {
+        z-index: 1;
+        display: block;
+        height: 400px;
+        flex: 1 1 50%;
+    }
+    .hs-md {
+        position: relative;
+        flex: 0 0 50%;
+        border-left: 1px solid #b7b7b7;
+        &.hidden {
+            display: none;
+        }
+    }
+}
+
+.mc_map_wp {
+    overflow: initial;
+    &::after {
+        content: "";
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+}
+
+#e_controls {
+    z-index: 2;
+    position: sticky;
+    top: 47px;
+    &.fullscreen {
+        z-index: 999;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+    }
+}
+
+.hs-editor {
+    height: 100%;
+}
+
+#e_resize > img {
+    display: none;
+}
+
+#e_bbar {
+    padding-right: 4px;
+}
+
+.hs-template {
+    display: inline-block;
+    width: 80px;
+    margin-left: 3px;
+    border-right: 1px solid #DDD;
+    > select {
+        width: 77px;
+        outline: none;
+    }
+    > div {
+        margin-top: 1px;
+    }
+}
+
+.hs-copy,
+.hs-apply,
+.hs-run {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #fbf2db;
+    background: transparent url(https://www.mcbbs.net/static/image/editor/editor.gif) no-repeat 0 0;
+    overflow: hidden;
+}
+
+.edt .bar {
+    .hs-copy {
+        background-position: -160px -60px;
+    }
+    .hs-apply {
+        background-position: -240px -60px;
+    }
+    .hs-run {
+        transform: rotateZ(-90deg);
+        background-position: -202px -60px;
+        &::after {
+            content: '';
+            display: block;
+            height: 20px;
+            background-color: #fff;
+            left: -1px;
+            position: absolute;
+            width: 4px;
+        }
+    }
+    a {
+        transition: none;
+    }
+}
+
+#hs_fullswitcher {
+    padding: 0 2px;
+    text-align: right;
+    border: 1px solid #99876C;
+    background: url(https://www.mcbbs.net/template/mcbbs/image/card_btn.png) repeat-x 0 100%;
+}
+
+.simpleedt .bar {
+    .hs-copy,
+    .hs-apply,
+    .hs-run {
+        display: none!important;
+    }
+}
+
+#e_imgattachlist {
+    td a {
+        text-decoration: none;
+        cursor: default;
+        color: #3b86f4;
+        &:hover::after {
+            color: #77aeff;
+        }
+        &::after {
+            content: attr(data-id);
+            cursor: pointer;
+        }
+        > img {
+            cursor: pointer;
+        }
+    }
+}
+
+#e_attachlist {
+    td p::after {
+        content: attr(id);
+        color: #bbb;
+        margin-left: 16px;
+    }
+}
