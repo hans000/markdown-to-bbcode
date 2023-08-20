@@ -1,13 +1,14 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import banner from 'vite-plugin-banner'
+import pkg from './package.json'
 
 const prefix = `
 // ==UserScript==
 // @name            bbcode-plugin-mdx
 // @namespace       http://hans0000.github.io/
-// @version         0.1
-// @author          hans000
+// @version         ${pkg.version}
+// @author          ${pkg.author.name}
 // @description     该项目用于扩展mcbbs论坛富文本编辑器，主要基于markdown的语法并扩展了论坛独有的语法功能，实现了快速书写的功能。
 // @run-at          document-end
 // @match           https://www.mcbbs.net/*

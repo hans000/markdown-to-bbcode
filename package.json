@@ -1,7 +1,7 @@
 {
   "$scheme": "https://json.schemastore.org/package",
   "name": "mdx2bbcode",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build -c vite.config.prod.ts",
